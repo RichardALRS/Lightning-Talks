@@ -4,4 +4,5 @@
 Name | Topic
 --- | --- 
 Pete Levine | Linting CSS in VSCode
+Richard Scott | Ah CRUD, but better than EF
 Your name here | Your topic here
